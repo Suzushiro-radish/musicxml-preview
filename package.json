@@ -9,13 +9,12 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "musicxml-preview.helloWorld",
-        "title": "Hello World"
+        "command": "musicxmlPreview.show",
+        "title": "Open MusicXML preview"
       }
     ]
   },
