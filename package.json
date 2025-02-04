@@ -14,6 +14,7 @@
     "type": "git",
     "url": "https://github.com/Suzushiro-radish/musicxml-preview"
   },
+  "license": "MIT",
   "contributes": {
     "commands": [
       {
