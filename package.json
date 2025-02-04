@@ -10,6 +10,10 @@
     "Other"
   ],
   "main": "./dist/extension.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Suzushiro-radish/musicxml-preview"
+  },
   "contributes": {
     "commands": [
       {
